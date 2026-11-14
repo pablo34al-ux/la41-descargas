@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/pablo34al-ux/la41-descargas/releases/download/v1.4/app-release.apk",
-  "novedades": "Reparto de cartas una a una con sonido, animación de las cartas comunitarias y un panel al final de cada mano que muestra quién ganó, cuánto y con qué jugada."
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/pablo34al-ux/la41-descargas/releases/download/v1.5/app-release.apk",
+  "novedades": "Temporizador por jugador para que tenga 30 segundos en jugar"
 }
